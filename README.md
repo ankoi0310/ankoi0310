@@ -15,7 +15,7 @@
 </p> -->
 
 # 👋 Hi, I'm Koi:
-🔭 I'm currently open for work on Software Engineer (Flutter Developer)🌱 
+🔭 I'm currently open for work on Flutter Developer <br>🌱 I gonna have job interview tomorrow so I just update here to let you know haha
 
 
 ## 🌐 Socials:
