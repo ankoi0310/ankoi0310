@@ -1,10 +1,9 @@
-<!-- 
 <p align="center">
   <a href="https://github.com/ankoi0310">
-    <img src="https://github.com/ankoi0310/ankoi0310/assets/79961352/e7010e02-9984-4ae7-9d5f-bbfc8fe2a93a" alt="An Huynh Van Huu" />
+    <img src="https://github.com/ankoi0310/ankoi0310/assets/79961352/e7010e02-9984-4ae7-9d5f-bbfc8fe2a93a" alt="An Huynh" />
   </a>
 </p>
--->
+
 
 <!--
 <p align="center">
@@ -15,7 +14,7 @@
 </p> -->
 
 # 👋 Hi, I'm Koi:
-🔭 I'm currently open for work on Flutter Developer <br>🌱 I gonna have job interview tomorrow so I just update here to let you know haha
+🔭 I'm currently open for work on Flutter Developer <!-- <br>🌱 I gonna have job interview tomorrow so I just update here to let you know haha-->
 
 
 ## 🌐 Socials:
